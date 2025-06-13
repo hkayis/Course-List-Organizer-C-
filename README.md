@@ -7,4 +7,3 @@ This program reads a list of course participants from a text file and stores the
 - Organizes data into three different linked lists based on category.
 - Displays each list with participant and time.
 
-## Sample Input (`courses.txt`)
